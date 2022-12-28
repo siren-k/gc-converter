@@ -1,0 +1,11 @@
+spring:
+  main:
+    banner-mode: off
+
+application:
+  profiles:
+    - dev
+    - test
+    - prod
+    - 1
+    - 2

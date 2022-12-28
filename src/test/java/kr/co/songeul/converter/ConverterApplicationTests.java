@@ -1,4 +1,4 @@
-package kr.co.songeul.gcconverter;
+package kr.co.songeul.converter;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
